@@ -1,7 +1,5 @@
 # 🔥 Sorara - The Ultimate Roblox Executor (not done)
 
-(Replace this with an actual banner image URL if you have one!)
-
 ## 🚀 About Sorara
 
 **Sorara** is a powerful, feature-packed Roblox executor designed to provide a smooth, seamless, and reliable scripting experience. With a modern UI, frequent updates, and cutting-edge features, **Sorara** stands out as one of the best choices for executing scripts in Roblox.
@@ -14,7 +12,6 @@
 - ✅ **Lightweight & Secure** – No bloat, ensuring smooth operation
 
 ## 🖥️UI Preview
-(Add images/screenshots of your UI here!)
 
 ### 📸 Example UI Screenshot (Replace this with an actual image!)
 
