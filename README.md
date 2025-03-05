@@ -13,9 +13,15 @@
 
 ## 🖥️UI Preview
 
+## Main Window
+![Sorara editor ui](https://github.com/user-attachments/assets/10c394f7-13da-4ba5-856e-df4f68b400b5)
+
+## Separate Buttons Window
 
 
-### 📸 Example UI Screenshot (Replace this with an actual image!)
+![separate buttons sorara ui](https://github.com/user-attachments/assets/161fd60b-8a5b-4140-a301-1df358b1dee5)
+
+
 
 ## 📥 Download Sorara
 - 🔹 **Latest Version:** Sorara v4.1
