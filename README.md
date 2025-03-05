@@ -1,4 +1,4 @@
-# 🔥 Sorara - The Ultimate Roblox Executor (not done)
+# 🔥 Sorara - The Ultimate Roblox Executor
 
 ## 🚀 About Sorara
 
@@ -17,8 +17,8 @@
 
 ## 📥 Download Sorara
 - 🔹 **Latest Version:** Sorara v4.1
-- 🔹 **Official Website:** SoraraExecutor.com (If you have one!)
-- 🔹 **Discord:** [Join our community](#)
+- 🔹 **Official Website:** [SoraraExecutor.com](https://getsorara.framer.website/)
+- 🔹 **Discord:** [Join our community](https://discord.com/invite/zBRneypFtW)
 
 ## 📌 How to Use
 1️⃣ Download & Install Sorara from the latest release  
@@ -46,4 +46,4 @@ Sorara is for educational purposes only. We do not support or endorse exploiting
 - 🌐 **Website:** [GetSorara.com](https://getsorara.framer.website)
 - 🐦 **Twitter:** [@Sorara Executor](https://getsorara.framer.website)
 - 📺 **YouTube:** [@Sorara Executor](https://getsorara.framer.website)
-- 🎮 **Discord:** [Join Us](#)
+- 🎮 **Discord:** [Join Us](https://discord.com/invite/zBRneypFtW))
