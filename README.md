@@ -13,6 +13,8 @@
 
 ## 🖥️UI Preview
 
+
+
 ### 📸 Example UI Screenshot (Replace this with an actual image!)
 
 ## 📥 Download Sorara
@@ -44,6 +46,7 @@ Sorara is for educational purposes only. We do not support or endorse exploiting
 
 ## 🔗 Socials
 - 🌐 **Website:** [GetSorara.com](https://getsorara.framer.website)
-- 🐦 **Twitter:** [@Sorara Executor](https://getsorara.framer.website)
-- 📺 **YouTube:** [@Sorara Executor](https://getsorara.framer.website)
+- 🐦 **Twitter:** [@SoraraExecutor](https://x.com/SoraraExecutor)
+- 📺 **YouTube:** [@Sorara_executor](https://getsorara.framer.website)
+- 🎵 **TikTok:** [@sorara_executor](https://www.tiktok.com/@sorara_executor)
 - 🎮 **Discord:** [Join Us](https://discord.com/invite/zBRneypFtW))
