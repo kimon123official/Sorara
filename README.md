@@ -39,6 +39,8 @@
 - ✅ **Auto Version Check** – The executor now ensures you're always on the latest version  
 - ✅ **Performance Boost** – Improved execution speed by 30%  
 - ✅ **Bug Fixes** – Fixed minor UI glitches & optimized memory usage
+- ✅ **Added A Settings Tab**
+- ✅ **Seperate Buttons Added**
 
 **💡** We’re always improving! Got a suggestion? Open an issue or join our Discord server!
 
