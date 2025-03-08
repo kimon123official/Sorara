@@ -14,13 +14,13 @@
 ## 🖥️UI Preview
 
 ## Main Window
-![Sorara editor ui](https://github.com/user-attachments/assets/10c394f7-13da-4ba5-856e-df4f68b400b5)
+
+![Screenshot 2025-03-08 212104](https://github.com/user-attachments/assets/b50bb084-b141-4ca1-bbdd-1dceda3a955e)
+
 
 ## Separate Buttons Window
 
-
 ![separate buttons sorara ui](https://github.com/user-attachments/assets/161fd60b-8a5b-4140-a301-1df358b1dee5)
-
 
 
 ## 📥 Download Sorara
@@ -35,12 +35,11 @@
 4️⃣ Load your script into the script editor  
 5️⃣ Execute & Enjoy! 🎮🔥
 
-## 🆕 Latest Updates (v4.1)
-- ✅ **Auto Version Check** – The executor now ensures you're always on the latest version  
-- ✅ **Performance Boost** – Improved execution speed by 30%  
+## 🆕 Latest Updates (v4.2) (Upcoming update) 
+- ✅ **Performance Boost** – Improved execution speed by 45%  
 - ✅ **Bug Fixes** – Fixed minor UI glitches & optimized memory usage
-- ✅ **Added A Settings Tab**
-- ✅ **Seperate Buttons Added**
+- ✅ **Added A Script Hub Tab**
+- ✅ **Added A Credits Tab**
 
 **💡** We’re always improving! Got a suggestion? Open an issue or join our Discord server!
 
