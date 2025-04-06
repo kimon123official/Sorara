@@ -24,8 +24,8 @@
 
 
 ## 📥 Download Sorara
-- 🔹 **Latest Version:** Sorara v4.1
-- 🔹 **Official Website:** [SoraraExecutor.com](https://getsorara.framer.website/)
+- 🔹 **Latest Version:** Sorara v4.2
+- 🔹 **Official Website:** [SoraraExecutor.com](https://getsorara.vercel.app)
 - 🔹 **Discord:** [Join our community](https://discord.com/invite/zBRneypFtW)
 
 ## 📌 How to Use
